@@ -207,6 +207,7 @@
 				TargetAttributes = {
 					486CB8A01D926B3100AD4355 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = NN3Q3YYA4U;
 						ProvisioningStyle = Automatic;
 					};
 					486CB8B91D926B3100AD4355 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NN3Q3YYA4U;
 				INFOPLIST_FILE = "iOS10推送Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.myText.iOS10--Demo";
@@ -433,6 +435,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = NN3Q3YYA4U;
 				INFOPLIST_FILE = "iOS10推送Demo/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.myText.iOS10--Demo";
